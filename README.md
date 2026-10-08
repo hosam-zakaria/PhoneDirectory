@@ -176,39 +176,31 @@ PhoneDirectory4/
 > Replace the placeholder image paths below with actual screenshots of your application UI.
 
 ### Main Dashboard
-![Main Dashboard](insert_image_path_here)
+![Main Dashboard](/images/Main.jpg)
 *The central control panel displaying action buttons and live contact count.*
 
 ### Add Contact Screen
-![Add Contact Form](insert_image_path_here)
+![Add Contact Form](/images/add.jpg)
 *Form for adding a new contact with field validation.*
 
-### Contact Directory Table
-![All Contacts Table View](insert_image_path_here)
-*Interactive tabular view of all stored contacts.*
-
 ### Search Contacts
-![Search Result View](insert_image_path_here)
+![Search Result View](/images/search.jpg)
 *Query contacts by mobile number with immediate result feedback.*
 
 ### Update Contact Wizard
-![Update Contact Screen](insert_image_path_here)
+![Update Contact Screen](/images/update.jpg)
 *Two-step update workflow for modifying contact details.*
-
-### Print View
-![Print Preview](insert_image_path_here)
-*Integrated document printing interface for exporting contact sheets.*
 
 ---
 
 ## 👥 Contributors & Credits
 
-- **Habiba Mohsen**
 - **Hosam Zakaria**
-- **Nehad Mohamed**
-- **Mohamed Zakaria**
-- **Fady Moawad**
 - **Ahmed Mahmoud**
+- **Mohamed Zakaria**
+- **Nehad Mohamed**
+- **Fady Moawad**
+- **Habiba Mohsen**
 
 *Version: 1.1.25*
 
